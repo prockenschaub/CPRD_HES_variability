@@ -1,0 +1,44 @@
+icd,description,short
+I20,Angina pectoris,Angina pectoris
+I21,Acute myocardial infarction,Acute myocardial infarction
+I22,Subsequent myocardial infarction,Subsequent myocardial infarction
+I23,Certain current complications following acute myocardial infarction,Complications following MI
+I24,Other acute ischaemic heart diseases,Other acute CHD
+I25,Chronic ischaemic heart disease,Chronic CHD
+I26,Pulmonary embolism,Pulmonary embolism
+I27,Other pulmonary heart diseases,Other pulmonary heart diseases
+I28,Other diseases of pulmonary vessels,Other diseases of pulmonary vessels
+I30,Acute pericarditis,Acute pericarditis
+I31,Other diseases of pericardium,Other diseases of pericardium
+I32,Pericarditis in diseases classified elsewhere,Pericarditis in other diseases
+I33,Acute and subacute endocarditis,(Sub-)acute endocarditis
+I34,Nonrheumatic mitral valve disorders,Nonrheumatic mitral valve disorders
+I35,Nonrheumatic aortic valve disorders,Nonrheumatic aortic valve disorders
+I36,Nonrheumatic tricuspid valve disorders,Nonrheumatic tricuspid valve disorders
+I37,Pulmonary valve disorders,Pulmonary valve disorders
+I38,"Endocarditis, valve unspecified","Endocarditis, valve unspecified"
+I39,Endocarditis and heart valve disorders in diseases classified elsewhere,Endocarditis and heart valve disorders in diseases classified elsewhere
+I40,Acute myocarditis,Acute myocarditis
+I41,Myocarditis in diseases classified elsewhere,Myocarditis in diseases classified elsewhere
+I42,Cardiomyopathy,Cardiomyopathy
+I43,Cardiomyopathy in diseases classified elsewhere,Cardiomyopathy in diseases classified elsewhere
+I44,Atrioventricular and left bundle-branch block,Atrioventricular block
+I45,Other conduction disorders,Other conduction disorders
+I46,Cardiac arrest,Cardiac arrest
+I47,Paroxysmal tachycardia,Paroxysmal tachycardia
+I48,Atrial fibrillation and flutter,Atrial fibrillation
+I49,Other cardiac arrhythmias,Other cardiac arrhythmias
+I50,Heart failure,Heart failure
+I51,Complications and ill-defined descriptions of heart disease,Complications and ill-defined descriptions of heart disease
+I52,Other heart disorders in diseases classified elsewhere,Other heart disorders in diseases classified elsewhere
+I60,Subarachnoid haemorrhage,Subarachnoid haemorrhage
+I61,Intracerebral haemorrhage,Intracerebral haemorrhage
+I62,Other nontraumatic intracranial haemorrhage,Other nontraumatic intracranial haemorrhage
+I63,Cerebral infarction,Cerebral infarction
+I64,"Stroke, not specified as haemorrhage or infarction","Stroke, not specified"
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Occlusion of precerebral arteries
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction","Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"
+I67,Other cerebrovascular diseases,Other cerebrovascular diseases
+I68,Cerebrovascular disorders in diseases classified elsewhere,Cerebrovascular disorders in diseases classified elsewhere
+I69,Sequelae of cerebrovascular disease,Sequelae of cerebrovascular disease
+G45,Transient cerebral ischaemic attacks and related syndromes,Transient cerebral ischaemic attack
